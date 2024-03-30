@@ -6,3 +6,8 @@ print(letras)  # {"b", "a", "c", "x", "i"}
 
 carros = set(("palio", "gol", "celta", "palio"))
 print(carros)  # {"gol", "celta", "palio"}
+
+
+# set = conjuntos
+# conjuntos são coleções que não possuem objetos repetidos
+# o conjunto também pode ser representado por {} ao invez do nome set
